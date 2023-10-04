@@ -1,0 +1,16 @@
+.box{
+    border:1px solid black;
+    height:200px;
+    width:150px;
+    background-image: linear-gradient(white,blue);
+    background-image: liner-gradient(to right,red,blue);
+    background-image:liner-gradient(to bottom right,red ,blue);
+    background-image: liner-gradient(45deg,red,blue);
+}
+.mydiv{
+    border:0ch1px solid black;
+    width:150px;
+    height:200px;
+    background-image: radial-gradient(red,blue);
+    background-image: radial-gradient(yellow 5%,orange 10%,red 20%);    
+}
